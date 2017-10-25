@@ -18,5 +18,5 @@ Report potholes and other defects that affect the function and safety of roads.
 * Messaging: notify user when request is sent
 
 ## References
-[NYC Open311 Inquiry API]( https://developer.cityofnewyork.us/api/open311-inquiry)
-[The Daily Pothole](http://thedailypothole.tumblr.com/)
+* [NYC Open311 Inquiry API]( https://developer.cityofnewyork.us/api/open311-inquiry)
+* [The Daily Pothole](http://thedailypothole.tumblr.com/)
